@@ -22,7 +22,13 @@ title: KONSTANTIN SMIRNOV
 email: hello@smiplay.com
 description: >- # this means to ignore newlines until "baseurl:"
   Product manager at Amway
-baseurl: "" # the subpath of your site, e.g. /blog
+  
+author:
+  name: "SomeHacker"
+  email: "someone@somewebsite.somedomain"
+  url: "https://konstantinsmirnov.github.io/"
+
+baseurl: / # the subpath of your site, e.g. /blog
 url: "https://konstantinsmirnov.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -31,6 +37,9 @@ github_username:  jekyll
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag #new
+  - jekyll-paginate #new
+  - jekyll-sitemap #new
 
 # Exclude from processing.
 # The following items will not be processed, by default.
