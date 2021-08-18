@@ -73,7 +73,7 @@ Atlassian Jira, Confluence
 Figma, Web prototyping with Ruby on Rails, HTML, CSS, SQL, git
 Fluent English, Spanish, native Russian
 
-# **INTERESTING FACTS**
+# INTERESTING FACTS
 
 Music, especially blues rock, guitar and bass guitar player, recording music.
 
