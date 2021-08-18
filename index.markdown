@@ -5,7 +5,7 @@
 layout: default
 ---
 
-# KONSTANTIN SMIRNOV
+# PROFILE
 
 With more than 8 years in IT, I enjoy building products that solve customers' complex problems and help them to get a better experience. Exceptional presentation skills, ability to work in highly stressful conditions, tight timeframes, interact with customers as well as developers on their language.
 
