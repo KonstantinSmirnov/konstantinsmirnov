@@ -85,4 +85,4 @@ telegram: [@smiplay](https://t.me/smiplay)
 
 # Download CV
 
-[Konstantin Smirnov - Product Manager CV.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bd1de322-eaa4-42ca-9ab2-2e3873accbd2/Konstantin_Smirnov_-_Product_Manager_CV.pdf)
+[Konstantin Smirnov - Product Manager CV.pdf](https://drive.google.com/file/d/14tq5DdI85Y-qWzpJam7aQ4d6vKUKT2gI/view?usp=sharing)
