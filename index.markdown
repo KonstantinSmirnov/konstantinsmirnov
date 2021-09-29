@@ -79,10 +79,6 @@ Music, especially blues rock, guitar and bass guitar player, recording music.
 
 Thank you for reading, have a nice day and let's stay in touch 🙂 
 
-tel: +7 926 918 1584
-email: [hello@smiplay.com](mailto:hello@smiplay.com)
-telegram: [@smiplay](https://t.me/smiplay)
-
 # Download CV
 
 [Konstantin Smirnov - Product Manager CV.pdf](https://drive.google.com/file/d/14tq5DdI85Y-qWzpJam7aQ4d6vKUKT2gI/view?usp=sharing)
