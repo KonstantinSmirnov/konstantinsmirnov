@@ -3,16 +3,17 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Hello world
-description: hey there
+title: Konstantin Smirnov
+description: Product Manager → International Business Market
 
 ---
 
 # PROFILE
 
-With more than 8 years in IT, I enjoy building products that solve customers' complex problems and help them to get a better experience. Exceptional presentation skills, ability to work in highly stressful conditions, tight timeframes, interact with customers as well as developers on their language.
+Passionate, value-driven product manager with experience leading cross-functional teams to plan, build, launch and manage world-class products. Blend skills with Scrum Product Owner experience, a marketing orientation and analytical abilities to evolve product strategy. Prioritize and manage multiple projects within specifications and budget restrictions.
 
-Russia, Moscow
+| Team Leadership | Scrum Methodologies | Requirements Gathering & Analysis |
+| Product Lifecycle Management | Go-to-Market Launch Plans | Market & Competitor Research |
 
 tel: +7 926 918 1584
 
