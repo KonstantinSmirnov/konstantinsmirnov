@@ -4,10 +4,8 @@
 
 layout: default
 title: Konstantin Smirnov
-description: Product Manager → International Business Market
+description: hello@smiplay.com • +7 (926) 918 1584 <br> Product Manager → International Business Market
 ---
-
-> Product Manager → International Business Market
 
 # PROFILE
 
