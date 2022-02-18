@@ -5,6 +5,7 @@
 layout: default
 title: Konstantin Smirnov
 description: Product Manager → International Business Market
++7 (926) 918 15 84 • hello@smiplay.com
 
 ---
 
@@ -12,8 +13,6 @@ description: Product Manager → International Business Market
 
 Passionate, value-driven product manager with experience leading cross-functional teams to plan, build, launch and manage world-class products. Blend skills with Scrum Product Owner experience, a marketing orientation and analytical abilities to evolve product strategy. Prioritize and manage multiple projects within specifications and budget restrictions.
 
-| Team Leadership | Scrum Methodologies | Requirements Gathering & Analysis |
-| Product Lifecycle Management | Go-to-Market Launch Plans | Market & Competitor Research |
 
 tel: +7 926 918 1584
 
@@ -21,68 +20,43 @@ email: [hello@smiplay.com](mailto:hello@smiplay.com)
 
 telegram: [@smiplay](https://t.me/smiplay)
 
-# EXPERIENCE
+# Work Experience
 
-### 2019–Present | Senior Product Owner | Amway Russia
+## AMWAY - Multiple Positions Held 2013 - Present
+### Product Manager - Russia/Kazakhstan/Ukraine/Mongolia subregion – 2019-Present
+• Migrated company to the new platform, leading a dedicated cross-functional team. Accountable for login, registration, and personal data migration.
+• Increased new business registrations in RU by implementing "2 clicks" online bank Sberbank/Tinkoff account sign up, resulting in 70% of new business registrations using this online flow.
+• Gathered 33K (5% of active users) new Customers in RU from a marketplace Ozon via integrated authorization flow.
+• Increased specific products repetitive sales by 13% (avg. monthly) via a regular auto order (subscription).
 
-As a part of the team, migrated Amway Russia and Kazakhstan ecom to the SAP Hybris eCommerce platform. The delivered solution handled increased traffic during the Corona pandemic which helped bring business to the outstanding revenue increase.
+### Digital Services Business Analyst – Europe/India/Africa/Russia region – 2016-2019
+• Led one of the dedicated product team (7 members) migrating company to the new platform (Hybris) at Scandinavian market (150K monthly active users). Handled content management, navigation, and product catalogue.
+• Engaged in digital services (website frontend adaptation) for Kazakhstan market official launch. Enhanced working
+solution, contributing into 30% year to year market growth success.
 
-- Adapted the registration, single sign-on, analytical, business tools to the local market specifics and customers needs via 2-week sprints with the agile team, business, and customers (focus groups) within the budget and in time. 60K daily active users on the website currently.
-- Implemented innovative subscription for products - regular delivery of selected products. 5000+ customers receive at least one subscription per month.
-- Mentoring an intern under my authority - helped to develop skills and knowledge required in the team, currently, she is a full-fledged PO in the Amway Russia team.
+### Technical Support Engineer – Russia/Kazakhstan subregion – 2013-2016
+• Assigned for level 2 support and enhancement projects of key company systems and services used by 500 employees and over 800 000 customers. Result: Successfully and accurately processed more than 10 000 tickets, that eliminated any discrepancies.
+• Digitalized documents signing process via integration with a local eSignature operator, resulting 30 000 documents signing with electronic signature monthly.
+• Decreased customer waiting time by 60% and new employee onboarding time with new Customer Service system and knowledge base.
 
-### 2016-2019 | Digital Services Business Analyst / Product Owner | Amway Europe
+## ASOFT 2012-2013
+### Business Analyst
 
-Migrated Amway in the Scandi region (DK, FI, NO, SE) to the SAP Hybris eCommerce platform, within a distributed team with other POs.
+• Integrated a CRM system to a customer, leading a team of 2 developers. Set up the business processes (ordering, inventory, delivery, service) and integrations with IP telephony. Formalized business processes.
 
-- With a dedicated agile team, adapted standard Hybris CMS system, navigation, and product catalog. Designed and implemented product sets functionality.
-- SAP Hybris adaptation for Belgium, Netherlands, Spain, Portugal - as Product Owner in the Storefront team (visual interfaces adaptation).
+# Education and Credentials
 
-### 2013-2016 | Corporate Applications Support Specialist | Amway Russia
+### MOSCOW AVIATION INSTITUTE – Russia
+• Master of Science. Spacecraft Propulsions 
+• Bachelor. Public Relations
 
-3rd line of technical support and leading the internal systems enhancements.
-
-- The water filters sales and after-sales support tracking CRM: 10 000+ units sold and tracked for spare parts replacements and warranty repair in the 1st year.
-- Integrated Digital Signature for the B2C documents flow (architecture design and implementation): up to 30 000 bonus documents signing monthly.
-
-### 2012-2013 | Business Analyst / Project Manager | Asoft, Russia
-
-Integrated an in-house developed CRM system to the online furniture store "LaCasa", leading a team of 2 developers. Set up the business processes (ordering, inventory, delivery, service), integrations. The sales and after-sales processes became stable, predictable, and simple to instruct employees, resulting in increased sales and repeat purchases.
-
-# EDUCATION
-
-### Moscow Aviation Institute (National Research University) (Moscow, Russia)
-
-2006-2012 | Master of science | Thermodynamics in rocket engines and spacecrafts
-2008-2011 | Bachelor | Public relations in the aerospace industry
-
-### British Higher School of Art and Design (Moscow, Russia)
-
-2019 | Team Management and Digital Product Creation (6 months course)
-2018 | UX & UI design: Product Approach (2 weeks intensive)
-
-### [ScrumAlliance.org](http://scrumalliance.org/) (Krakow, Poland)
-
-2017 | Certified Scrum Product Owner (certificate ID 000720593)
-
-### PM Expert (Moscow, Russia)
-
-2016 | Certified PME (Project Management Expert), PMI PMBOK® Guide 5th Edition (certificate ID 002166)
+### Certifications
+• Certified Scrum Product Owner (certificate 000720593), ScrumAlliance.org, Poland
+• Team Management and Digital Product Creation, British Higher School of Art and Design, Russia
 
 # SKILLS
 
-Google Analytics, Heap
-Hybris, MS Dynamics, IBM iSeries, MS Sharepoint
-Atlassian Jira, Confluence
-Figma, Web prototyping with Ruby on Rails, HTML, CSS, SQL, git
-Fluent English, Spanish, native Russian
-
-# INTERESTING FACTS
-
-Music, especially blues rock, guitar and bass guitar player, recording music.
-
-Thank you for reading, have a nice day and let's stay in touch 🙂 
-
-# Download CV
-
-[Konstantin Smirnov - Product Manager CV.pdf](https://drive.google.com/file/d/14tq5DdI85Y-qWzpJam7aQ4d6vKUKT2gI/view?usp=sharing)
+Team Leadership
+Product Lifecycle Management
+Scrum Methodologies Go-to-Market Launch Plans
+Requirements Gathering & Analysis Market & Competitor Research
