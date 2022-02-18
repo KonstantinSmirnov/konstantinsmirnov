@@ -7,6 +7,8 @@ title: Konstantin Smirnov
 description: Product Manager → International Business Market
 ---
 
+> Product Manager → International Business Market
+
 # PROFILE
 
 Passionate, value-driven product manager with experience leading cross-functional teams to plan, build, launch and manage world-class products. Blend skills with Scrum Product Owner experience, a marketing orientation and analytical abilities to evolve product strategy. Prioritize and manage multiple projects within specifications and budget restrictions.
