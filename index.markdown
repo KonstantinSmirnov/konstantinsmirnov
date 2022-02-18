@@ -4,7 +4,7 @@
 
 layout: default
 title: Konstantin Smirnov
-description: hello@smiplay.com • +7 (926) 918 1584 <br> Product Manager → International Business Market <br> [Duck Duck Go](https://duckduckgo.com)
+description: hello@smiplay.com • +7 (926) 918 1584 <br> Product Manager → International Business Market 
 ---
 
 # PROFILE
